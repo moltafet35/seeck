@@ -220,8 +220,8 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {76534150,89655129,tonumber(our_id)},--Sudo users
-    disabled_channels = {57371840},
+    sudo_users = {76534150,177487343,tonumber(our_id)},--Sudo users
+    disabled_channels = {95534554},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v1
@@ -341,7 +341,7 @@ Commands list :
 
 * فقط ادمین اصلی می تواند از res,setowner,promote,demote and log  استفاده کند
 
-Tnx to SEED Team. @infinitiSiS and @Wolfsm
+Tnx to SEED Team. @infinitiSiS and @TeleKings
 ]]
 
   }
